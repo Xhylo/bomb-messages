@@ -1,5 +1,5 @@
     #################
-    # bomb_messages #
+    # bomb_messages8 #
     #################
     elif command == 'bomb_messages' or command == 'bomb_message' or command == 'bomb':
         if args is None:
